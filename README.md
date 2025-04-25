@@ -81,4 +81,6 @@ upload_and_predict()
 
 ## Performance
 
+![model accuracy & loss](https://github.com/LukasKrisna/Animals10-MobileNetV2/blob/master/accuracy_loss.png)
+
 The model achieves over 95% accuracy on both training and validation sets.
